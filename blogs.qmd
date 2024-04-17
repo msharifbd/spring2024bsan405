@@ -1,0 +1,14 @@
+---
+title: "blogs"
+engine: knitr
+kupyter: python3
+listing:
+  contents: posts
+  sort: false
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: false
+---

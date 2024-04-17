@@ -1,0 +1,14 @@
+---
+title: "Past Projects"
+engine: knitr
+kupyter: python3
+listing:
+  contents: posts_projects
+  sort: false
+  type: default
+  categories: true
+  sort-ui: true
+  filter-ui: true
+page-layout: full
+title-block-banner: false
+---

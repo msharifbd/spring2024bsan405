@@ -1,5 +1,5 @@
 ---
-title: "Josh Higgins"
+title: "Josh Higgins, PhD"
 subtitle: "<center> Machine Learning Enthusiast <br> Business Analytics Major <br> Southern Illinois University Carbondale" 
 image: image/siuimage.png
 about:
